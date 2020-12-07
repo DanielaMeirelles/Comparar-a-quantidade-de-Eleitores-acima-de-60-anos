@@ -10,4 +10,4 @@ https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
 
 ## Arquivo do Jupyter Notebook
 
-![Quantidade de eleitores de SJC por Faixa Etária].(https://github.com/DanielaMeirelles/Comparar-a-quantidade-de-Eleitores-acima-de-60-anos/blob/main/Quantidade%20de%20eleitores%20de%20SJC%20por%20Faixa%20Et%C3%A1ria.ipynb)
+![Quantidade de eleitores de SJC por Faixa Etária](https://github.com/DanielaMeirelles/Comparar-a-quantidade-de-Eleitores-acima-de-60-anos/blob/main/Quantidade%20de%20eleitores%20de%20SJC%20por%20Faixa%20Et%C3%A1ria.ipynb)
